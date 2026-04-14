@@ -19,10 +19,10 @@ The goal of this project was to:
 ---
 
 ##  Tools & Technologies
-- 📗 Microsoft Excel (Data Cleaning & Dashboard)
-- 🗄️ SQL / MySQL (Data Analysis)
-- 📊 Power BI (Interactive Dashboard)
-- 📈 Tableau (Data Visualization)
+-  Microsoft Excel (Data Cleaning & Dashboard)
+-  SQL / MySQL (Data Analysis)
+-  Power BI (Interactive Dashboard)
+-  Tableau (Data Visualization)
 
 ---
 
