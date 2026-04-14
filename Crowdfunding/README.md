@@ -40,10 +40,10 @@ Campaign duration impacts success probability
 
 ### Dashboard Preview
 ###  Excel Dashboard
-![Excel_dashboard](Excel_dashboard.jpg)
+![Excel Dashboard](Excel_Dashboard.jpg)
 
 ###  Tableau Dashboard
-![Tableau_dashboard](Tableau_dashboard.jpg)
+![Tableau Dashboard](Tableau_Dashboard.jpg)
 
 ### Features
 Multi-tool analysis (SQL + Excel + BI tools)
