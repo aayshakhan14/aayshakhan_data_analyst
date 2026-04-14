@@ -42,9 +42,6 @@ Campaign duration impacts success probability
 ###  Excel Dashboard
 ![Excel Dashboard](Excel_dashboard.jpg)
 
-###  Power BI Dashboard
-![Power BI Dashboard](Power_BI_dashboard.pdf)
-
 ###  Tableau Dashboard
 ![Tableau Dashboard](Tableau_dashboard.jpg)
 
