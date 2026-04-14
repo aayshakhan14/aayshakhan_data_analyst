@@ -35,7 +35,7 @@ The goal of this project was to:
 ![Excel Dashboard](Excel_dashboard.jpg)
 
 ###  Power BI Dashboard
-![Power BI Dashboard](Power BI_dashboard.jpg)
+![Power BI Dashboard](Power_BI_dashboard.jpg)
 
 ###  Tableau Dashboard
 ![Tableau Dashboard](Tableau_dashboard.jpg)
