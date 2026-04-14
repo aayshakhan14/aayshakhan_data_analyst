@@ -59,10 +59,10 @@ The goal of this project was to:
 ---
 
 ##  Project Highlights
-✔ Multi-tool data analysis (Excel + SQL + Power BI + Tableau)  
-✔ End-to-end data workflow  
-✔ Business-focused insights  
-✔ Dashboard-driven storytelling  
+Multi-tool data analysis (Excel + SQL + Power BI + Tableau)  
+End-to-end data workflow  
+Business-focused insights  
+Dashboard-driven storytelling  
 
 
 ---
