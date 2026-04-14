@@ -26,9 +26,6 @@ The goal of this project was to:
 
 ---
 
-##  Project Structure
----
-
 ##  Dashboard Previews
 
 ###  Excel Dashboard
